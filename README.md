@@ -19,7 +19,7 @@ pip install nest_asyncio
 
 ## Preprocessor
 
-The Preprocessor is a notebook that loads the Twint output and performs a variant of the WE1S preprocessing pipeline on the text of the tweets. The result is saved in a new `tidy_tweet` field. The preprocessing algorithm is described at the beginning of the notebook.
+The Preprocessor is a notebook that loads the Twint output and performs a variant of the WE1S preprocessing pipeline on the text of the tweets. The result is saved in a new `tidy_tweet` field. The preprocessing algorithm is described at the beginning of the notebook. The Preprocessor comes with a stoplist, which is a variant of the standard WE1S stoplist.
 
 ## Utilities
 
