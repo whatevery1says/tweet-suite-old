@@ -11,7 +11,7 @@ The Scraper tools is a wrapper for the Python library [`twint`](https://github.c
 - Typical libraries that access the Twitter API require a Twitter developer account, which has become more complicated to obtain recently. The Twitter API also comes with limitations such as rate limits. Twint bypasses the Twitter API using [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) tools to overcome these limitations.
 - Twint is under active development, and frequent changes make installation strategies somewhat unreliable. We have found that the following commands work best:
 
-```python
+```
 pip install --user --upgrade -e git+https://github.com/twintproject/twint.git@origin/master#egg=twint
 
 pip install nest_asyncio
