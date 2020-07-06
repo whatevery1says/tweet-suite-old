@@ -1,6 +1,8 @@
-# WE1S Tweet Suite
+> This repo is superceded by Tweet Suite: https://github.com/whatevery1says/tweet-suite
 
-The WE1S Tweet Suite is a suite of tools for collecting and preprocessing data from Twitter, and for integrating that data into the WE1S Jupyter notebook workspace.Chomp is a client-side, human-assisted, generic-ish web scraper designed to collect broad data samples from specific websites based on specific Google queries. It should (eventually) be extensible, user-friendly, and capable of producing good, clean results at the scale of thousands or tens of thousands of queries.
+# WE1S Tweet Suite (OLD)
+
+The WE1S Tweet Suite is a suite of tools for collecting and preprocessing data from Twitter, and for integrating that data into the WE1S Jupyter notebook workspace.
 
 ## Scraper
 
